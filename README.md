@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vidhi-sys
 - 👀 I’m interested in Java, python,c++ and little bit of machiene learning stuff
-- 🌱 I’m currently an btech undergraduate
+- 🌱 I’m currently a Btech undergraduate
 - 💞️ I’m looking to collaborate on coding projects and internships
 - 📫 How to reach me :
 - linkedin: https://www.linkedin.com/in/vidhi-udasi-8397432b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
