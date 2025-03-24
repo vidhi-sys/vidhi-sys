@@ -1,14 +1,28 @@
-- 👋 Hi, I’m @vidhi-sys
-- 👀 I’m interested in Java, python,c++ and little bit of machiene learning stuff
-- 🌱 I’m currently a Btech undergraduate
-- 💞️ I’m looking to collaborate on coding projects and internships
-- 📫 How to reach me :
-- linkedin: https://www.linkedin.com/in/vidhi-udasi-8397432b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- instagram: vidhi_udasi
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I really find drawing and art and crafts intresting can also  write pretty well.
+# Hi, I'm Vidhi Udasi! 👋
 
-<!---
-vidhi-sys/vidhi-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Tech Enthusiast | 🎨 Creative Soul
+- 🎓 **B.Tech Undergraduate** | Passionate about coding and problem-solving.
+- 🌱 **Currently Learning**: Java, Python, C++, and Machine Learning.
+- 🤝 **Looking to Collaborate**: On coding projects and internships.
+- 📫 **Reach Me**: 
+  - [LinkedIn](https://www.linkedin.com/in/vidhi-udasi-839743263) | [Instagram](https://www.instagram.com/vidhi_udasi) |[twitter] @vidhi200421
+  - Pronouns: she/her
+
+---
+
+### 🛠️ Skills
+- **Languages**: Java, Python, C++
+- **Tools**: Git, GitHub, Pandas
+- **Interests**: Coding, Drawing, Writing
+
+---
+
+### 📂 Popular Repos
+- [pandas-sys](https://github.com/vidhi-sys/pandas-sys): Python projects.
+- [java-100-days](https://github.com/vidhi-sys/java-100-days): Java learning journey.
+
+---
+
+### 🎯 Motto
+**Code. Debug. Repeat.**  
+*Turning ideas into reality, one line at a time.*
