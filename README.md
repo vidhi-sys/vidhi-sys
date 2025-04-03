@@ -18,7 +18,6 @@
 ---
 
 ### 📂 Popular Repos
-- [pandas-sys](https://github.com/vidhi-sys/pandas-sys): Python projects.
 - [java-100-days](https://github.com/vidhi-sys/java-100-days): Java learning journey.
 
 ---
