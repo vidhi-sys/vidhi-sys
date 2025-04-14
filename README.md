@@ -5,7 +5,7 @@
 - 🌱 **Currently Learning**: Java, Python, C++, and Machine Learning.
 - 🤝 **Looking to Collaborate**: On coding projects and internships.
 - 📫 **Reach Me**: 
-  - [LinkedIn](https://www.linkedin.com/in/vidhi-udasi-839743263) | [Instagram](https://www.instagram.com/vidhi_udasi) | [Twitter](https://twitter.com/vidhi200421) |[LeetCode] (https://leetcode.com/vidhi_2104/  ) 
+  - [LinkedIn](https://www.linkedin.com/in/vidhi-udasi-839743263) | [Instagram](https://www.instagram.com/vidhi_udasi) | [Twitter](https://twitter.com/vidhi200421) |[LeetCode](https://leetcode.com/u/vidhi_2104/) 
   - Pronouns: she/her
 
 ---
