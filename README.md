@@ -1,5 +1,5 @@
 # Hi, I'm Vidhi Udasi! 👋
-📄 [My Resume](https://github.com/vidhi-sys/main/Vidhi_Udasi_Resume.docx)  
+📄 [My Resume](https://github.com/vidhi-sys/resume/raw/main/Vidhi_Udasi_Resume.docx)  
 
 
 ### 💻 Tech Enthusiast | 🎨 Creative Soul
