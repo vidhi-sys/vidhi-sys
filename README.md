@@ -1,4 +1,6 @@
 # Hi, I'm Vidhi Udasi! 👋
+📄 [My Resume](https://github.com/vidhi-sys/resume/blob/main/Vidhi_Udasi_Resume.pdf)  
+
 
 ### 💻 Tech Enthusiast | 🎨 Creative Soul
 - 🎓 **B.Tech Undergraduate** | Passionate about coding and problem-solving.
