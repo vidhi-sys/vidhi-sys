@@ -29,10 +29,8 @@ Here are some of my Kaggle achievements:
 
 ### Profile Badges
 
-<img src="https://raw.githubusercontent.com/vidhi-sys/vidhi-sys/main/kaggle-badges/python-coder.svg" alt="Kaggle Python Coder Badge">
-<img src="./kaggle-badges/vampire.svg" alt="Kaggle Vampire Badge">
----
-<img width="129" height="130" alt="Screenshot 2025-07-31 143821" src="https://github.com/user-attachments/assets/2309e036-348b-418c-85ea-2aa3dc6b2fc7" />
+<img width="129" height="130" alt="Screenshot_2025-07-31_143821-removebg-preview" src="https://github.com/user-attachments/assets/20abb5f9-92fb-4bf6-b8cf-5a2e5b6ba614" />
+
 <img width="121" height="136" alt="Screenshot_2025-07-31_143811-removebg-preview" src="https://github.com/user-attachments/assets/bb044cc2-b0ca-4efc-b8dd-8622e4e55f3f" />
 
 
