@@ -29,16 +29,20 @@
 **Code. Debug. Repeat.**  
 *Turning ideas into reality, one line at a time.*
 ---
-# Kaggle Badges
-
 ## 🏆 Achievements
+
 <p align="center">
-  [![Vampire](https://www.kaggle.com/static/images/badges/vampire@1x.png)](https://www.kaggle.com/vidhiudasi)  
-  **Vampire** - Top forum contributor badge 
-  <img src="https://www.kaggle.com/static/images/badges/vampire@2x.png" width="150" title="Vampire">
-  [![Python Coder](https://www.kaggle.com/static/images/badges/python-coder@1x.png)](https://www.kaggle.com/vidhiudasi)  
-  **Python Coder** - Earned for mastering Python on Kaggle  
-  <img src="https://www.kaggle.com/static/images/badges/python-coder@2x.png" width="150" title="Python Coder">
+  <a href="https://www.kaggle.com/vidhiudasi" target="_blank">
+    <img src="https://www.kaggle.com/static/images/badges/vampire@2x.png" alt="Vampire" width="120" style="margin: 0 15px;">
+  </a>
+  <a href="https://www.kaggle.com/vidhiudasi" target="_blank">
+    <img src="https://www.kaggle.com/static/images/badges/python-coder@2x.png" alt="Python Coder" width="120">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Vampire</strong> - Top forum contributor • 
+  <strong>Python Coder</strong> - Mastered Python on Kaggle
 </p>
  
 
