@@ -28,10 +28,8 @@
 ### 🎯 Motto
 **Code. Debug. Repeat.**  
 *Turning ideas into reality, one line at a time.*
-# Markdown
-
-![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
-![](./kaggle-plates/Competitions/white.svg)
-<!-- HTML -->
-<img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
-<img src="./kaggle-plates/Competitions/white.svg" />
+---
+ ## 🔥 My Achievements
+### Kaggle
+[![Python Coder](https://www.kaggle.com/static/images/badges/python-coder@2x.png)](https://www.kaggle.com/vidhiudasi)  
+*Earned for completing Python courses on Kaggle.*
