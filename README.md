@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://www.kaggle.com/vidhiudasi" target="_blank">
-    <img src="https://www.kaggle.com/static/images/badges/vampire@2x.png" alt="Vampire" width="120" style="margin: 0 15px;">
+    <img src="https://www.kaggle.com/static/images/badges/vampire@2x.png?v=1" ...>
   </a>
   <a href="https://www.kaggle.com/vidhiudasi" target="_blank">
     <img src="https://www.kaggle.com/static/images/badges/python-coder@2x.png" alt="Python Coder" width="120">
