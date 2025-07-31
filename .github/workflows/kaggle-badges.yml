@@ -17,6 +17,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Create output directories
+        run: |
+          mkdir -p kaggle-badges
+          mkdir -p kaggle-plates
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
