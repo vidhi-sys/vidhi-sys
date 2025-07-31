@@ -29,11 +29,20 @@
 **Code. Debug. Repeat.**  
 *Turning ideas into reality, one line at a time.*
 ---
- ## 🔥 My Achievements
-## 🏆 Kaggle Badges
-[![Vampire](https://www.kaggle.com/static/images/badges/vampire@1x.png)](https://www.kaggle.com/vidhiudasi)  
+# Kaggle Badges
 
+## 🏆 Achievements
+<p align="center">
+  [![Vampire](https://www.kaggle.com/static/images/badges/vampire@1x.png)](https://www.kaggle.com/vidhiudasi)  
+  **Vampire** - Top forum contributor badge 
+  <img src="https://www.kaggle.com/static/images/badges/vampire@2x.png" width="150" title="Vampire">
+  [![Python Coder](https://www.kaggle.com/static/images/badges/python-coder@1x.png)](https://www.kaggle.com/vidhiudasi)  
+  **Python Coder** - Earned for mastering Python on Kaggle  
+  <img src="https://www.kaggle.com/static/images/badges/python-coder@2x.png" width="150" title="Python Coder">
+</p>
+ 
 
-[![Python Coder](https://www.kaggle.com/static/images/badges/python-coder@2x.png)](https://www.kaggle.com/vidhiudasi)  
-*Earned for mastering Python on Kaggle.*
+## 🔜 Goals
+- [ ] Notebooks Master
+- [ ] Competitions Expert
 
