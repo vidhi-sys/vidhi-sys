@@ -31,7 +31,7 @@
 ---
  ## 🔥 My Achievements
 ## 🏆 Kaggle Badges
-[![Vampire](https://www.kaggle.com/static/images/badges/vampire@2x.png)](https://www.kaggle.com/vidhiudasi)  
+[![Vampire](https://www.kaggle.com/static/images/badges/vampire@1x.png)](https://www.kaggle.com/vidhiudasi)  
 
 
 [![Python Coder](https://www.kaggle.com/static/images/badges/python-coder@2x.png)](https://www.kaggle.com/vidhiudasi)  
