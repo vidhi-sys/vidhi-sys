@@ -29,21 +29,21 @@
 **Code. Debug. Repeat.**  
 *Turning ideas into reality, one line at a time.*
 ---
-## 🏆 Achievements
+## 🏆 Kaggle Badges
 
-<p align="center">
+<div align="center">
   <a href="https://www.kaggle.com/vidhiudasi" target="_blank">
-    <img src="https://www.kaggle.com/static/images/badges/vampire@2x.png?v=1" ...>
+    <img src="https://www.kaggle.com/static/images/open-badges/vampire.png" alt="Vampire Badge" width="150" style="margin: 0 10px;">
   </a>
   <a href="https://www.kaggle.com/vidhiudasi" target="_blank">
-    <img src="https://www.kaggle.com/static/images/badges/python-coder@2x.png" alt="Python Coder" width="120">
+    <img src="https://www.kaggle.com/static/images/open-badges/python-coder.png" alt="Python Coder Badge" width="150">
   </a>
-</p>
+</div>
 
-<p align="center">
-  <strong>Vampire</strong> - Top forum contributor • 
+<div align="center">
+  <strong>Vampire</strong> - dark mode contributor • 
   <strong>Python Coder</strong> - Mastered Python on Kaggle
-</p>
+</div>
  
 
 ## 🔜 Goals
