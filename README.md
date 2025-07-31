@@ -3,7 +3,7 @@
 📄 [My Resume](https://github.com/vidhi-sys/vidhi-sys/blob/c2a6f12361d19ddced0a41483b31bd321b5d2c06/Vidhi_Udasi_Resume.pdf)  
 
 
-### 💻 Tech Enthusiast | 🎨 Creative Soul
+### 💻 Tech Enthusiast 
 - 🎓 **B.Tech Undergraduate** | Passionate about coding and problem-solving.
 - 🌱 **Currently Learning**: Java, Python, C++, and Machine Learning.
 - 🤝 **Looking to Collaborate**: On coding projects and internships.
@@ -28,3 +28,10 @@
 ### 🎯 Motto
 **Code. Debug. Repeat.**  
 *Turning ideas into reality, one line at a time.*
+# Markdown
+
+![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+![](./kaggle-plates/Competitions/white.svg)
+<!-- HTML -->
+<img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
+<img src="./kaggle-plates/Competitions/white.svg" />
