@@ -1,41 +1,37 @@
-# Hi, I'm Vidhi Udasi! 👋
+Hi there 👋
+I'm Vidhi Udasi, a B.Tech undergrad, passionate about coding and problem-solving. Welcome to my GitHub profile!
 
-📄 [My Resume](https://github.com/vidhi-sys/vidhi-sys/blob/c2a6f12361d19ddced0a41483b31bd321b5d2c06/Vidhi_Udasi_Resume.pdf)  
+<p align="center">
+<img src="https://media.giphy.com/media/wIeG46Yn8Vp8A/giphy.gif" width="100" />
+</p>
 
+About Me
+👩‍💻 Passionate about: Coding, problem-solving, and building cool projects.
 
-### 💻 Tech Enthusiast 
-- 🎓 **B.Tech Undergraduate** | Passionate about coding and problem-solving.
-- 🌱 **Currently Learning**: Java, Python, C++, and Machine Learning.
-- 🤝 **Looking to Collaborate**: On coding projects and internships.
-- 📫 **Reach Me**: 
-  - [LinkedIn](https://www.linkedin.com/in/vidhi-udasi-839743263) | [Instagram](https://www.instagram.com/vidhi_udasi) | [Twitter](https://twitter.com/vidhi200421) |[LeetCode](https://leetcode.com/u/vidhi_2104/) | [Kaggle](https://www.kaggle.com/vidhiudasi)
-  - Pronouns: she/her
+🌱 Currently learning: Java, Python, C++, Machine Learning, and CI-CD pipelines.
 
----
+🤝 Looking to collaborate on: Open-source projects and internships.
 
-### 🛠️ Skills
-- **Languages**: Java, Python, C++
-- **Tools**: Git, GitHub, Pandas,ML,DataScraping
+My Skills
+Languages: Java, Python, C++
 
+Tools & Technologies: Git, GitHub, Pandas, ML, Data Scraping
 
----
+Let's Connect!
+🔗 LinkedIn
 
-### 📂 Popular Repos
-- [java-100-days](https://github.com/vidhi-sys/java-100-days): Java learning journey.
+🐦 Twitter
 
-## My Kaggle Badges
+🖥️ LeetCode
 
-Here are some of my Kaggle achievements:
+🌐 Kaggle
 
-### Profile Badges
+My Latest GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vidhi-sys&show_icons=true&theme=dark" alt="Vidhi's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhi-sys&theme=dark" alt="Vidhi's GitHub Streak" />
+</p>
 
-<img width="129" height="130" alt="Screenshot_2025-07-31_143821-removebg-preview" src="https://github.com/user-attachments/assets/20abb5f9-92fb-4bf6-b8cf-5a2e5b6ba614" />
-
-<img width="121" height="136" alt="Screenshot_2025-07-31_143811-removebg-preview" src="https://github.com/user-attachments/assets/bb044cc2-b0ca-4efc-b8dd-8622e4e55f3f" />
-
-
-## Connect with me:
-
--  <a href="https://www.kaggle.com/vidhiudasi">Kaggle Profile</a>
-
-> _"The only way to do great work is to love what you do."_ - Steve Jobs
+<p align="center">
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Happy coding!
+</p>
