@@ -1,14 +1,10 @@
-### Hi there 👋
-
-I'm Vidhi Udasi, a B.Tech undergrad, passionate about coding and problem-solving. Welcome to my GitHub profile!
-
----
+# Hi, I'm Vidhi Udasi 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/wIeG46Yn8Vp8A/giphy.gif" width="100" />
+  <img src="https://raw.githubusercontent.com/vidhi-sys/Gify_Genrator/main/animal.gif" width="150" alt="Animal GIF"/>
 </p>
 
----
+I'm a B.Tech undergraduate with a passion for software development and machine learning...
 
 ### About Me
 
