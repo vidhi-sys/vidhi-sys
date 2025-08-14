@@ -23,9 +23,9 @@ I'm a B.Tech undergraduate with a passion for software development and machine l
 
 ### Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vidhiudasi/)
-- 🐦 [Twitter](https://twitter.com/vidhiudasi)
-- 🖥️ [LeetCode](https://leetcode.com/vidhiudasi/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vidhi-udasi-8397432b3/)
+- 🐦 [Twitter](https://x.com/vidhi200421)
+- 🖥️ [LeetCode](https://leetcode.com/u/vidhi_2104/)
 - 🌐 [Kaggle](https://www.kaggle.com/vidhiudasi)
 
 ---
