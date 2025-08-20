@@ -6,6 +6,10 @@
 
 I'm a B.Tech undergraduate with a passion for software development and machine learning...
 
+### My Resume
+
+You can view my resume here: [My Resume (PDF)](https://drive.google.com/file/d/1q3VgsgZuB1xH_4o_jc1XnqXr3cyyDXKp/view?usp=sharing)
+
 ### About Me
 
 - 👩‍💻 **Passionate about:** Coding, problem-solving, and building cool projects.
