@@ -1,5 +1,4 @@
-# Hi, I'm Vidhi Udasi 👋
-
+# Hi, I'm Vidhi Udasi 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vidhi-sys/Gify_Genrator/main/animal.gif" width="150" alt="Animal GIF"/>
 </p>
