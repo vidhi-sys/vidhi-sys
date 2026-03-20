@@ -4,7 +4,7 @@ B.Tech undergraduate passionate about software development with expertise in mac
 
 ## Resume
 
-[View My Resume (PDF)](https://drive.google.com/file/d/1q3VgsgZuB1xH_4o_jc1XnqXr3cyyDXKp/view?usp=sharing)
+[View My Resume (PDF)](https://drive.google.com/file/d/1k-pt9dar94tUZMHBGcPblqwnI5UmVXLc/view?usp=drive_link)
 
 ## Technical Skills
 
